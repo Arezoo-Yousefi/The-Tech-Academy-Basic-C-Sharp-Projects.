@@ -1,0 +1,7 @@
+D:\AolccProjects\C#\Basic_C#_Programs\consoleApplication\consoleApplication\bin\Debug\consoleApplication.exe.config
+D:\AolccProjects\C#\Basic_C#_Programs\consoleApplication\consoleApplication\bin\Debug\consoleApplication.exe
+D:\AolccProjects\C#\Basic_C#_Programs\consoleApplication\consoleApplication\bin\Debug\consoleApplication.pdb
+D:\AolccProjects\C#\Basic_C#_Programs\consoleApplication\consoleApplication\obj\Debug\consoleApplication.csproj.AssemblyReference.cache
+D:\AolccProjects\C#\Basic_C#_Programs\consoleApplication\consoleApplication\obj\Debug\consoleApplication.csproj.CoreCompileInputs.cache
+D:\AolccProjects\C#\Basic_C#_Programs\consoleApplication\consoleApplication\obj\Debug\consoleApplication.exe
+D:\AolccProjects\C#\Basic_C#_Programs\consoleApplication\consoleApplication\obj\Debug\consoleApplication.pdb

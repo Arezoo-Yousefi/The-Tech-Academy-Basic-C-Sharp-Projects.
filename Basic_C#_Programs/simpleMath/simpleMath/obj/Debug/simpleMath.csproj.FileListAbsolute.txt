@@ -1,0 +1,7 @@
+D:\AolccProjects\C#\Basic_C#_Programs\simpleMath\simpleMath\bin\Debug\simpleMath.exe.config
+D:\AolccProjects\C#\Basic_C#_Programs\simpleMath\simpleMath\bin\Debug\simpleMath.exe
+D:\AolccProjects\C#\Basic_C#_Programs\simpleMath\simpleMath\bin\Debug\simpleMath.pdb
+D:\AolccProjects\C#\Basic_C#_Programs\simpleMath\simpleMath\obj\Debug\simpleMath.csproj.AssemblyReference.cache
+D:\AolccProjects\C#\Basic_C#_Programs\simpleMath\simpleMath\obj\Debug\simpleMath.csproj.CoreCompileInputs.cache
+D:\AolccProjects\C#\Basic_C#_Programs\simpleMath\simpleMath\obj\Debug\simpleMath.exe
+D:\AolccProjects\C#\Basic_C#_Programs\simpleMath\simpleMath\obj\Debug\simpleMath.pdb
