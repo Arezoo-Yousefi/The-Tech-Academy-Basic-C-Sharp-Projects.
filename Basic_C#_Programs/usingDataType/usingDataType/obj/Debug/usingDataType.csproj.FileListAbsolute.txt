@@ -1,0 +1,7 @@
+D:\AolccProjects\C#\Basic_C#_Programs\usingDataType\usingDataType\bin\Debug\usingDataType.exe.config
+D:\AolccProjects\C#\Basic_C#_Programs\usingDataType\usingDataType\bin\Debug\usingDataType.exe
+D:\AolccProjects\C#\Basic_C#_Programs\usingDataType\usingDataType\bin\Debug\usingDataType.pdb
+D:\AolccProjects\C#\Basic_C#_Programs\usingDataType\usingDataType\obj\Debug\usingDataType.csproj.AssemblyReference.cache
+D:\AolccProjects\C#\Basic_C#_Programs\usingDataType\usingDataType\obj\Debug\usingDataType.csproj.CoreCompileInputs.cache
+D:\AolccProjects\C#\Basic_C#_Programs\usingDataType\usingDataType\obj\Debug\usingDataType.exe
+D:\AolccProjects\C#\Basic_C#_Programs\usingDataType\usingDataType\obj\Debug\usingDataType.pdb
