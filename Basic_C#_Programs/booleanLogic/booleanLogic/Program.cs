@@ -18,7 +18,7 @@ namespace booleanLogic
             Console.WriteLine("How many speeding tickets do you have?");
             int speedTicket = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("qualified?");
-            Console.WriteLine(yourAge > 14 && haveDUI == false && speedTicket <=3);//applicant must be over 14
+            Console.WriteLine(yourAge > 14 && !haveDUI  && speedTicket <=3);//applicant must be over 14
             //and must not have DUI and must not have more than 3 speed ticket
             Console.Read();
         }
