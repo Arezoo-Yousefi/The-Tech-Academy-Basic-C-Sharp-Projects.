@@ -1,0 +1,7 @@
+D:\AolccProjects\C#\Basic_C#_Programs\booleanLogic\booleanLogic\bin\Debug\booleanLogic.exe.config
+D:\AolccProjects\C#\Basic_C#_Programs\booleanLogic\booleanLogic\bin\Debug\booleanLogic.exe
+D:\AolccProjects\C#\Basic_C#_Programs\booleanLogic\booleanLogic\bin\Debug\booleanLogic.pdb
+D:\AolccProjects\C#\Basic_C#_Programs\booleanLogic\booleanLogic\obj\Debug\booleanLogic.csproj.AssemblyReference.cache
+D:\AolccProjects\C#\Basic_C#_Programs\booleanLogic\booleanLogic\obj\Debug\booleanLogic.csproj.CoreCompileInputs.cache
+D:\AolccProjects\C#\Basic_C#_Programs\booleanLogic\booleanLogic\obj\Debug\booleanLogic.exe
+D:\AolccProjects\C#\Basic_C#_Programs\booleanLogic\booleanLogic\obj\Debug\booleanLogic.pdb
