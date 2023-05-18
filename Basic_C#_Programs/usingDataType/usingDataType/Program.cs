@@ -17,7 +17,7 @@ class Program
         Console.WriteLine("What page number?");
         int pageNumber = Convert.ToInt32(Console.ReadLine());//change the datatype string to integer
         Console.WriteLine("Do you need help with anything? Please answer \"true\" or \"false\"");
-        Boolean anyNeeded = Convert.ToBoolean(Console.ReadLine());//change the datatype string to boolean 
+        bool anyNeeded = Convert.ToBoolean(Console.ReadLine());//change the datatype string to boolean 
         Console.WriteLine("Were there any positive experiences you’d like to share? Please give specifics");
         string experiance = Console.ReadLine();
         Console.WriteLine("Is there any other feedback you’d like to provide? Please be specific.");
