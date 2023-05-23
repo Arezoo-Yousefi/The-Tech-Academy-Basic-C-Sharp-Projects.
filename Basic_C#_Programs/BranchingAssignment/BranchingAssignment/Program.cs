@@ -25,11 +25,19 @@ namespace BranchingAssignment
                 double packageWidth = Convert.ToDouble(Console.ReadLine());//package width
                 Console.Write("Please enter the package length:");
                 double packageLength = Convert.ToDouble(Console.ReadLine());//package length
-                decimal price = (decimal)(packageWidth * packageLength * packageHeight * packageWeight / 100);
-                //var x = string.Format("{0:#.00}", price);
-                Console.WriteLine($"Your estimated total for shipping this package is: {price:#0.00} $\nThank you");//change the format to money 
-                //var x = string.Format("Your estimated total for shipping this package is: {0:#.00} $", price);
-                Console.Read();//the page is still visible untill pressing enter
+                if (packageHeight + packageWidth + packageLength > 50)
+                {
+                    Console.WriteLine("Package too big to be shipped via Package Express.");
+                    Console.Read();
+                }
+                else
+                {
+                    decimal price = (decimal)(packageWidth * packageLength * packageHeight * packageWeight / 100);
+                    //var x = string.Format("{0:#.00}", price);
+                    Console.WriteLine($"Your estimated total for shipping this package is: {price:#0.00} $\nThank you");//change the format to money 
+                                                                                                                        //var x = string.Format("Your estimated total for shipping this package is: {0:#.00} $", price);
+                    Console.Read();//the page is still visible untill pressing enter
+                }
             }
 
         }

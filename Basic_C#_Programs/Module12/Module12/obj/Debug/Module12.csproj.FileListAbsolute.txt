@@ -1,0 +1,7 @@
+D:\AolccProjects\C#\Basic_C#_Programs\Module12\Module12\bin\Debug\Module12.exe.config
+D:\AolccProjects\C#\Basic_C#_Programs\Module12\Module12\bin\Debug\Module12.exe
+D:\AolccProjects\C#\Basic_C#_Programs\Module12\Module12\bin\Debug\Module12.pdb
+D:\AolccProjects\C#\Basic_C#_Programs\Module12\Module12\obj\Debug\Module12.csproj.AssemblyReference.cache
+D:\AolccProjects\C#\Basic_C#_Programs\Module12\Module12\obj\Debug\Module12.csproj.CoreCompileInputs.cache
+D:\AolccProjects\C#\Basic_C#_Programs\Module12\Module12\obj\Debug\Module12.exe
+D:\AolccProjects\C#\Basic_C#_Programs\Module12\Module12\obj\Debug\Module12.pdb
