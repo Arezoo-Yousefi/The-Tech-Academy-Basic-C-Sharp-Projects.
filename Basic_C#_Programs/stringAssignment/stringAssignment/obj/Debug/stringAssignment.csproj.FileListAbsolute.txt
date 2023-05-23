@@ -1,0 +1,7 @@
+D:\AolccProjects\C#\Basic_C#_Programs\stringAssignment\stringAssignment\bin\Debug\stringAssignment.exe.config
+D:\AolccProjects\C#\Basic_C#_Programs\stringAssignment\stringAssignment\bin\Debug\stringAssignment.exe
+D:\AolccProjects\C#\Basic_C#_Programs\stringAssignment\stringAssignment\bin\Debug\stringAssignment.pdb
+D:\AolccProjects\C#\Basic_C#_Programs\stringAssignment\stringAssignment\obj\Debug\stringAssignment.csproj.AssemblyReference.cache
+D:\AolccProjects\C#\Basic_C#_Programs\stringAssignment\stringAssignment\obj\Debug\stringAssignment.csproj.CoreCompileInputs.cache
+D:\AolccProjects\C#\Basic_C#_Programs\stringAssignment\stringAssignment\obj\Debug\stringAssignment.exe
+D:\AolccProjects\C#\Basic_C#_Programs\stringAssignment\stringAssignment\obj\Debug\stringAssignment.pdb

@@ -10,32 +10,32 @@ namespace Module12
     {
         static void Main(string[] args)
         {
-            bool getDay = false;
-            Console.Write("Enter the day:");
-            string day = Console.ReadLine();
-            string weekday = char.ToUpper(day[0]) + day.Substring(1).ToLower();
-            Console.WriteLine(weekday);
+            bool IsWeekend = false;
             do
             {
+                Console.Write("Enter the day:");
+                string day = Console.ReadLine();
+                string weekday = char.ToUpper(day[0]) + day.Substring(1).ToLower();
+                Console.WriteLine(weekday);
                 switch (weekday)
                 {
                     case "Sunday":
-                        Console.WriteLine("yohooooo! weekend");
-                        getDay = true;
-                        break;
                     case "Saturday":
-                        Console.WriteLine("yohooooo! Weekend");
-                        getDay = true;
+                        Console.WriteLine("yohooooo! weekend");
+                        IsWeekend = true;
+                        break;
+                    case "Monday":
+                    case "Tuesday":
+                    case "Wednesday":
+                    case "thursday":
+                    case "Friday":
+                        Console.WriteLine("Weekdays");
                         break;
                     default:
-                        Console.WriteLine("Weekdays");
-                        Console.WriteLine("Name another day");
-                        day = Console.ReadLine();
+                        Console.WriteLine("This is not a day name!!!");
                         break;
-
-
                 }
-            } while (getDay);
+            } while (!IsWeekend);
             Console.ReadLine();
         }
     }

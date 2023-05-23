@@ -28,7 +28,7 @@ namespace BranchingAssignment
                 if (packageHeight + packageWidth + packageLength > 50)
                 {
                     Console.WriteLine("Package too big to be shipped via Package Express.");
-                    Console.Read();
+                    _=Console.Read();
                 }
                 else
                 {
