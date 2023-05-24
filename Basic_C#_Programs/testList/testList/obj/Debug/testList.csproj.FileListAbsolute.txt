@@ -1,0 +1,7 @@
+D:\AolccProjects\C#\Basic_C#_Programs\testList\testList\bin\Debug\testList.exe.config
+D:\AolccProjects\C#\Basic_C#_Programs\testList\testList\bin\Debug\testList.exe
+D:\AolccProjects\C#\Basic_C#_Programs\testList\testList\bin\Debug\testList.pdb
+D:\AolccProjects\C#\Basic_C#_Programs\testList\testList\obj\Debug\testList.csproj.AssemblyReference.cache
+D:\AolccProjects\C#\Basic_C#_Programs\testList\testList\obj\Debug\testList.csproj.CoreCompileInputs.cache
+D:\AolccProjects\C#\Basic_C#_Programs\testList\testList\obj\Debug\testList.exe
+D:\AolccProjects\C#\Basic_C#_Programs\testList\testList\obj\Debug\testList.pdb
