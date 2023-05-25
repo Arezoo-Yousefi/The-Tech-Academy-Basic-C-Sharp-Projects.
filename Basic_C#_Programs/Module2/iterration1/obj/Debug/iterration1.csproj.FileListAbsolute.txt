@@ -1,0 +1,7 @@
+D:\AolccProjects\C#\Basic_C#_Programs\Module2\iterration1\bin\Debug\iterration1.exe.config
+D:\AolccProjects\C#\Basic_C#_Programs\Module2\iterration1\bin\Debug\iterration1.exe
+D:\AolccProjects\C#\Basic_C#_Programs\Module2\iterration1\bin\Debug\iterration1.pdb
+D:\AolccProjects\C#\Basic_C#_Programs\Module2\iterration1\obj\Debug\iterration1.csproj.AssemblyReference.cache
+D:\AolccProjects\C#\Basic_C#_Programs\Module2\iterration1\obj\Debug\iterration1.csproj.CoreCompileInputs.cache
+D:\AolccProjects\C#\Basic_C#_Programs\Module2\iterration1\obj\Debug\iterration1.exe
+D:\AolccProjects\C#\Basic_C#_Programs\Module2\iterration1\obj\Debug\iterration1.pdb
