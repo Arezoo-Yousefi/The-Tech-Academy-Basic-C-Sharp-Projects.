@@ -1,0 +1,7 @@
+D:\AolccProjects\C#\Basic_C#_Programs\Module3\ConsoleAppStringsAndntegersAssignmen\bin\Debug\ConsoleAppStringsAndntegersAssignmen.exe.config
+D:\AolccProjects\C#\Basic_C#_Programs\Module3\ConsoleAppStringsAndntegersAssignmen\bin\Debug\ConsoleAppStringsAndntegersAssignmen.exe
+D:\AolccProjects\C#\Basic_C#_Programs\Module3\ConsoleAppStringsAndntegersAssignmen\bin\Debug\ConsoleAppStringsAndntegersAssignmen.pdb
+D:\AolccProjects\C#\Basic_C#_Programs\Module3\ConsoleAppStringsAndntegersAssignmen\obj\Debug\ConsoleAppStringsAndntegersAssignmen.csproj.AssemblyReference.cache
+D:\AolccProjects\C#\Basic_C#_Programs\Module3\ConsoleAppStringsAndntegersAssignmen\obj\Debug\ConsoleAppStringsAndntegersAssignmen.csproj.CoreCompileInputs.cache
+D:\AolccProjects\C#\Basic_C#_Programs\Module3\ConsoleAppStringsAndntegersAssignmen\obj\Debug\ConsoleAppStringsAndntegersAssignmen.exe
+D:\AolccProjects\C#\Basic_C#_Programs\Module3\ConsoleAppStringsAndntegersAssignmen\obj\Debug\ConsoleAppStringsAndntegersAssignmen.pdb
