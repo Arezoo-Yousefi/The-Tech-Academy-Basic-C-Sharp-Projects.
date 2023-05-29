@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CallingMethod", "CallingMet
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MainMethodAssignment", "MainMethodAssignment\MainMethodAssignment.csproj", "{CFB86182-4F9B-401A-BF48-94203A13A0F9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodAssignment", "MethodAssignment\MethodAssignment.csproj", "{298B8D82-EFAA-4159-BD77-B7515A68DF82}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{CFB86182-4F9B-401A-BF48-94203A13A0F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CFB86182-4F9B-401A-BF48-94203A13A0F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CFB86182-4F9B-401A-BF48-94203A13A0F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{298B8D82-EFAA-4159-BD77-B7515A68DF82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{298B8D82-EFAA-4159-BD77-B7515A68DF82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{298B8D82-EFAA-4159-BD77-B7515A68DF82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{298B8D82-EFAA-4159-BD77-B7515A68DF82}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
