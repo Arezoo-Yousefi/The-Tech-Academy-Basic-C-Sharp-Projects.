@@ -5,3 +5,10 @@ C:\Users\are_y\source\repos\CallingMethod\CallingMethod\obj\Debug\CallingMethod.
 C:\Users\are_y\source\repos\CallingMethod\CallingMethod\obj\Debug\CallingMethod.csproj.CoreCompileInputs.cache
 C:\Users\are_y\source\repos\CallingMethod\CallingMethod\obj\Debug\CallingMethod.exe
 C:\Users\are_y\source\repos\CallingMethod\CallingMethod\obj\Debug\CallingMethod.pdb
+D:\AolccProjects\C#\Basic_C#_Programs\CallingMethod\CallingMethod\bin\Debug\CallingMethod.exe.config
+D:\AolccProjects\C#\Basic_C#_Programs\CallingMethod\CallingMethod\bin\Debug\CallingMethod.exe
+D:\AolccProjects\C#\Basic_C#_Programs\CallingMethod\CallingMethod\bin\Debug\CallingMethod.pdb
+D:\AolccProjects\C#\Basic_C#_Programs\CallingMethod\CallingMethod\obj\Debug\CallingMethod.csproj.AssemblyReference.cache
+D:\AolccProjects\C#\Basic_C#_Programs\CallingMethod\CallingMethod\obj\Debug\CallingMethod.csproj.CoreCompileInputs.cache
+D:\AolccProjects\C#\Basic_C#_Programs\CallingMethod\CallingMethod\obj\Debug\CallingMethod.exe
+D:\AolccProjects\C#\Basic_C#_Programs\CallingMethod\CallingMethod\obj\Debug\CallingMethod.pdb
