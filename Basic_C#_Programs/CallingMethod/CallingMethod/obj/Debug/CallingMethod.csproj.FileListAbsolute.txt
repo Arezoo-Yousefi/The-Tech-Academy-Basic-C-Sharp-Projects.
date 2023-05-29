@@ -1,0 +1,7 @@
+C:\Users\are_y\source\repos\CallingMethod\CallingMethod\bin\Debug\CallingMethod.exe.config
+C:\Users\are_y\source\repos\CallingMethod\CallingMethod\bin\Debug\CallingMethod.exe
+C:\Users\are_y\source\repos\CallingMethod\CallingMethod\bin\Debug\CallingMethod.pdb
+C:\Users\are_y\source\repos\CallingMethod\CallingMethod\obj\Debug\CallingMethod.csproj.AssemblyReference.cache
+C:\Users\are_y\source\repos\CallingMethod\CallingMethod\obj\Debug\CallingMethod.csproj.CoreCompileInputs.cache
+C:\Users\are_y\source\repos\CallingMethod\CallingMethod\obj\Debug\CallingMethod.exe
+C:\Users\are_y\source\repos\CallingMethod\CallingMethod\obj\Debug\CallingMethod.pdb

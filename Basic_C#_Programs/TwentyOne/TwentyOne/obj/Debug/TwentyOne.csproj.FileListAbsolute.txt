@@ -1,0 +1,14 @@
+C:\Users\are_y\source\repos\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe.config
+C:\Users\are_y\source\repos\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe
+C:\Users\are_y\source\repos\TwentyOne\TwentyOne\bin\Debug\TwentyOne.pdb
+C:\Users\are_y\source\repos\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.AssemblyReference.cache
+C:\Users\are_y\source\repos\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CoreCompileInputs.cache
+C:\Users\are_y\source\repos\TwentyOne\TwentyOne\obj\Debug\TwentyOne.exe
+C:\Users\are_y\source\repos\TwentyOne\TwentyOne\obj\Debug\TwentyOne.pdb
+D:\AolccProjects\C#\Basic_C#_Programs\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe.config
+D:\AolccProjects\C#\Basic_C#_Programs\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe
+D:\AolccProjects\C#\Basic_C#_Programs\TwentyOne\TwentyOne\bin\Debug\TwentyOne.pdb
+D:\AolccProjects\C#\Basic_C#_Programs\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.AssemblyReference.cache
+D:\AolccProjects\C#\Basic_C#_Programs\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CoreCompileInputs.cache
+D:\AolccProjects\C#\Basic_C#_Programs\TwentyOne\TwentyOne\obj\Debug\TwentyOne.exe
+D:\AolccProjects\C#\Basic_C#_Programs\TwentyOne\TwentyOne\obj\Debug\TwentyOne.pdb
