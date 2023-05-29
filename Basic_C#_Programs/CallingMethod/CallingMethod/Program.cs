@@ -11,8 +11,8 @@ namespace CallingMethod
         static void Main(string[] args)
         {
             bool intNum = false;
-            while (!intNum){
-                try{
+            while (!intNum){//continue asking for the correct number
+                try{//if there is any error in type of the number it will return a message
                     Console.Write("Please enter the side of Square: ");
                     int sideSize = Convert.ToInt32(Console.ReadLine());
                     Methods obj = new Methods();
