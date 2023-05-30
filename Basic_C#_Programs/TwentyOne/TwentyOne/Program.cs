@@ -18,10 +18,14 @@ namespace TwentyOne
                 
             }
             Console.WriteLine($"The total cards  are: {deck.Cards.Count}");
+            TwentyOneGame game = new TwentyOneGame();
+            game.Players = new List<string> { "Arezoo", "Ali", "Parmida" };
+            game.listPlayer();
+            game.play();
             Console.ReadLine();
         }
-        
-        
+
+
         //public static Deck Shuffle(Deck deck, int times)
         //{
         //    for(int i = 0; i < times; i++)
@@ -30,5 +34,6 @@ namespace TwentyOne
         //    }
         //    return deck;
         //}
+        
     }
 }
