@@ -10,7 +10,6 @@ namespace MethodClassAssignment
     {
         static void Main(string[] args)
         {
-            
             MyClass obj = new MyClass();//instantiate the class.
             obj.Mathoperation(3, 2);//Call the method in the class passing in two numbers
             Console.Write("enter a number: ");
@@ -20,8 +19,6 @@ namespace MethodClassAssignment
             obj.Mathoperation(numberOne, randomPower);//Call the method in the class, specifying the parameters by name.
 
             Console.Read();
-
-
         }
     }
 }

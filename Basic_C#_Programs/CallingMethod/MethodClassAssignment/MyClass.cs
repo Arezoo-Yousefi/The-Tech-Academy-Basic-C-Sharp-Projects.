@@ -10,8 +10,6 @@ namespace MethodClassAssignment
     {
         public void Mathoperation(int numOne, int power)// create a void method that takes two integers as parameters
         {
-            
-            
             int template = numOne;
             switch (power)//this method return a number to the power of number
             {
