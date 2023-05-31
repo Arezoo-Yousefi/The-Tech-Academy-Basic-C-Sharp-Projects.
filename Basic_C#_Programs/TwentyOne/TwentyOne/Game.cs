@@ -6,12 +6,13 @@ using System.Threading.Tasks;
 
 namespace TwentyOne
 {
-    public class Game
+    public abstract class Game
     {
         public List<string> Players { get; set; }
         public string Dealer { get; set; }
         public string name { get; set; }
-        public void listPlayer()
+        public abstract void Play();
+        public virtual void listPlayer()
         {
             foreach(string player in Players)
             {

@@ -10,18 +10,24 @@ namespace TwentyOne
     {
         static void Main(string[] args)
         {
-            Deck deck = new Deck();
-            deck.Shuffle(3);
-            foreach(Card card in deck.Cards)
-            {
-                Console.WriteLine(card.Face + " " + card.Suit);
-                
-            }
-            Console.WriteLine($"The total cards  are: {deck.Cards.Count}");
+
             TwentyOneGame game = new TwentyOneGame();
             game.Players = new List<string> { "Arezoo", "Ali", "Parmida" };
             game.listPlayer();
-            game.play();
+            //Deck deck = new Deck();
+            //deck.Shuffle(3);
+            //foreach(Card card in deck.Cards)
+            //{
+            //    Console.WriteLine(card.Face + " " + card.Suit);
+                
+            //}
+            //Console.WriteLine($"The total cards  are: {deck.Cards.Count}");
+            //TwentyOneGame game = new TwentyOneGame();
+            //game.Players = new List<string> { "Arezoo", "Ali", "Parmida" };
+            //game.listPlayer();
+            //game.play();
+            //Dealer dealer = new Dealer();
+            
             Console.ReadLine();
         }
 

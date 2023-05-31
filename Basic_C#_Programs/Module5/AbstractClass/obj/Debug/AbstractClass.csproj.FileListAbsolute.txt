@@ -1,0 +1,7 @@
+D:\AolccProjects\C#\Basic_C#_Programs\Module5\AbstractClass\bin\Debug\AbstractClass.exe.config
+D:\AolccProjects\C#\Basic_C#_Programs\Module5\AbstractClass\bin\Debug\AbstractClass.exe
+D:\AolccProjects\C#\Basic_C#_Programs\Module5\AbstractClass\bin\Debug\AbstractClass.pdb
+D:\AolccProjects\C#\Basic_C#_Programs\Module5\AbstractClass\obj\Debug\AbstractClass.csproj.AssemblyReference.cache
+D:\AolccProjects\C#\Basic_C#_Programs\Module5\AbstractClass\obj\Debug\AbstractClass.csproj.CoreCompileInputs.cache
+D:\AolccProjects\C#\Basic_C#_Programs\Module5\AbstractClass\obj\Debug\AbstractClass.exe
+D:\AolccProjects\C#\Basic_C#_Programs\Module5\AbstractClass\obj\Debug\AbstractClass.pdb
