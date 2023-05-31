@@ -12,7 +12,7 @@ namespace Module6
         {
             EmployeeClass employeeOne = new EmployeeClass() { id = 132 };//instantiate two objects of the Employee
             EmployeeClass employeeTwo = new EmployeeClass() { id = 132 };
-            bool isTheSame = (employeeOne == employeeTwo);
+            bool isTheSame = (employeeOne == employeeTwo); //using ==
 
         }
     }
