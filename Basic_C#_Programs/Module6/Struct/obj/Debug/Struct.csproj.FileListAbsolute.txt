@@ -1,0 +1,6 @@
+D:\AolccProjects\C#\Basic_C#_Programs\Module6\Struct\bin\Debug\Struct.exe.config
+D:\AolccProjects\C#\Basic_C#_Programs\Module6\Struct\bin\Debug\Struct.exe
+D:\AolccProjects\C#\Basic_C#_Programs\Module6\Struct\bin\Debug\Struct.pdb
+D:\AolccProjects\C#\Basic_C#_Programs\Module6\Struct\obj\Debug\Struct.csproj.CoreCompileInputs.cache
+D:\AolccProjects\C#\Basic_C#_Programs\Module6\Struct\obj\Debug\Struct.exe
+D:\AolccProjects\C#\Basic_C#_Programs\Module6\Struct\obj\Debug\Struct.pdb

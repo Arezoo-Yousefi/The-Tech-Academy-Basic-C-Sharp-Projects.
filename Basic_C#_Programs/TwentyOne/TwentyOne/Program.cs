@@ -10,6 +10,12 @@ namespace TwentyOne
     {
         static void Main(string[] args)
         {
+            
+            Card card1 = new Card();
+            Card card2 = card1;
+            card1.Face = faceEnum.King;
+            card2.Face = faceEnum.Ace;
+            Console.WriteLine(card1.Face);
 
             //Card card1 = new Card();
             //card1.Suit = suitEnum.Clubs;
