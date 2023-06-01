@@ -1,0 +1,7 @@
+D:\AolccProjects\C#\Basic_C#_Programs\Module6\Parameters\bin\Debug\Parameters.exe.config
+D:\AolccProjects\C#\Basic_C#_Programs\Module6\Parameters\bin\Debug\Parameters.exe
+D:\AolccProjects\C#\Basic_C#_Programs\Module6\Parameters\bin\Debug\Parameters.pdb
+D:\AolccProjects\C#\Basic_C#_Programs\Module6\Parameters\obj\Debug\Parameters.csproj.AssemblyReference.cache
+D:\AolccProjects\C#\Basic_C#_Programs\Module6\Parameters\obj\Debug\Parameters.csproj.CoreCompileInputs.cache
+D:\AolccProjects\C#\Basic_C#_Programs\Module6\Parameters\obj\Debug\Parameters.exe
+D:\AolccProjects\C#\Basic_C#_Programs\Module6\Parameters\obj\Debug\Parameters.pdb
