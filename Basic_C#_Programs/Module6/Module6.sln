@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parameters", "Parameters\Pa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operators", "Operators\Operators.csproj", "{BC8C9D55-B4A1-4D90-893C-D3BC64DAAC26}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParsingEnums", "ParsingEnums\ParsingEnums.csproj", "{5CC9A0E8-D3C1-4BD2-85AB-8A89AAB378B6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{BC8C9D55-B4A1-4D90-893C-D3BC64DAAC26}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BC8C9D55-B4A1-4D90-893C-D3BC64DAAC26}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BC8C9D55-B4A1-4D90-893C-D3BC64DAAC26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CC9A0E8-D3C1-4BD2-85AB-8A89AAB378B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CC9A0E8-D3C1-4BD2-85AB-8A89AAB378B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CC9A0E8-D3C1-4BD2-85AB-8A89AAB378B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CC9A0E8-D3C1-4BD2-85AB-8A89AAB378B6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

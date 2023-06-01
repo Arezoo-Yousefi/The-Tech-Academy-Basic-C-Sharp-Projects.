@@ -8,17 +8,31 @@ namespace TwentyOne
 {
     public class Card
     {
-        public Card(string s, string f)
-        {
-            Suit = s;
-            Face = f;
-        }
-        public Card()
-        {
-            Suit = "Spade";
-            Face = "two";
-        }
-        public string Suit { get; set; }
-        public string Face { get; set; }
+       
+        public suitEnum Suit { get; set; }
+        public faceEnum Face { get; set; }
+    }
+    public enum suitEnum
+    {
+        Clubs,
+        Diamonds,
+        Hearts, 
+        Spades
+    }
+    public enum faceEnum
+    {
+        Two,
+        Three,
+        Four,
+        Five,
+        Six,
+        Seven,
+        Eight, 
+        Nine,
+        Ten,
+        Jack,
+        Queen,
+        King,
+        Ace
     }
 }

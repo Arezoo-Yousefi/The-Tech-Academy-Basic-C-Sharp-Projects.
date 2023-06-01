@@ -8,10 +8,7 @@ namespace TwentyOne
 {
     public abstract class Game
     {
-        public Game()
-        {
-            Players = new List<Player>();
-        }
+        
         public List<Player> Players { get; set; }
         public string Dealer { get; set; }
         public string name { get; set; }
