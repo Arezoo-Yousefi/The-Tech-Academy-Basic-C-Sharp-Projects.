@@ -1,7 +1,0 @@
-D:\AolccProjects\C#\Basic_C#_Programs\Module6\Module6\bin\Debug\Module6.exe.config
-D:\AolccProjects\C#\Basic_C#_Programs\Module6\Module6\bin\Debug\Module6.exe
-D:\AolccProjects\C#\Basic_C#_Programs\Module6\Module6\bin\Debug\Module6.pdb
-D:\AolccProjects\C#\Basic_C#_Programs\Module6\Module6\obj\Debug\Operators.csproj.AssemblyReference.cache
-D:\AolccProjects\C#\Basic_C#_Programs\Module6\Module6\obj\Debug\Operators.csproj.CoreCompileInputs.cache
-D:\AolccProjects\C#\Basic_C#_Programs\Module6\Module6\obj\Debug\Module6.exe
-D:\AolccProjects\C#\Basic_C#_Programs\Module6\Module6\obj\Debug\Module6.pdb
