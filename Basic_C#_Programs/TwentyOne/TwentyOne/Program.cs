@@ -10,65 +10,32 @@ namespace TwentyOne
     {
         static void Main(string[] args)
         {
+            Console.Write("Welcome to this Cosino, Let's start with telling me your name: ");
+            string playerName = Console.ReadLine();
 
+            Console.Write("How much money did you bring today? ");
+            int bank = Convert.ToInt32(Console.ReadLine());
 
-            
-            //Card card1 = new Card();
-            //Card card2 = card1;
-            //card1.Face = faceEnum.King;
-            //card2.Face = faceEnum.Ace;
-            //Console.WriteLine(card1.Face);
+            Console.Write($"Hello {playerName}, Would you like to join the game right now? ");
+            string answer = Console.ReadLine().ToLower();
+            if (answer == "yes" || answer == "yeah" ||answer=="ya"|| answer == "y")
+            {
+                Player player = new Player(playerName,bank);
+                Game game = new TwentyOneGame();
+                game += player;
+                player.isActivelyPlaying = true;
+                while(player.isActivelyPlaying && player.Balance > 0)
+                {
+                    game.Play();
+                }
+                game -= player;
+                Console.WriteLine("Thank you for playing!!");
 
-            //Card card1 = new Card();
-            //card1.Suit = suitEnum.Clubs;
-            //int underlyingValue = Convert.ToInt32(card1.Suit);
-            //Console.WriteLine(underlyingValue);
-            //Game game = new TwentyOneGame();
-            //game.Players = new List<Player>();
-            //Player player = new Player();
-            //player.Name = "Arezoo";
-            //game += player;
-            //game -= player;
+            }
 
-            Deck deck = new Deck();
-
-            int count = deck.Cards.Count(x => x.Face == faceEnum.Five);
-            //List<Card> newList = deck.Cards.Where(x => x.Face == faceEnum.King).ToList();
-            List<int> numberList = new List<int>() { 2, 5, 234, 532, 1, 78, 346, 7 };
-            int sum = numberList.Where(x=>x<79).Sum();
-
-            //foreach(Card card in newList)
-            //{
-            //    Console.WriteLine(card.Face);
-            //}
-
-
-            Console.WriteLine(sum);
-            //deck.Shuffle(3);
-            //foreach (Card card in deck.Cards)
-            //{
-            //    Console.WriteLine(card.Face + " " + card.Suit);
-
-            //}
-            //Console.WriteLine($"The total cards  are: {deck.Cards.Count}");
-            //TwentyOneGame game = new TwentyOneGame();
-            //game.Players = new List<string> { "Arezoo", "Ali", "Parmida" };
-            //game.listPlayer();
-            //game.play();
-            //Dealer dealer = new Dealer();
-
+            Console.WriteLine("Feel free to go around the Casino, Bye for now.");
             Console.ReadLine();
+
         }
-
-
-        //public static Deck Shuffle(Deck deck, int times)
-        //{
-        //    for(int i = 0; i < times; i++)
-        //    {
-        //        deck = Shuffle(deck);
-        //    }
-        //    return deck;
-        //}
-        
     }
 }
