@@ -1,0 +1,7 @@
+D:\AolccProjects\C#\Basic_C#_Programs\Module7\Input\bin\Debug\Input.exe.config
+D:\AolccProjects\C#\Basic_C#_Programs\Module7\Input\bin\Debug\Input.exe
+D:\AolccProjects\C#\Basic_C#_Programs\Module7\Input\bin\Debug\Input.pdb
+D:\AolccProjects\C#\Basic_C#_Programs\Module7\Input\obj\Debug\Input.csproj.AssemblyReference.cache
+D:\AolccProjects\C#\Basic_C#_Programs\Module7\Input\obj\Debug\Input.csproj.CoreCompileInputs.cache
+D:\AolccProjects\C#\Basic_C#_Programs\Module7\Input\obj\Debug\Input.exe
+D:\AolccProjects\C#\Basic_C#_Programs\Module7\Input\obj\Debug\Input.pdb
