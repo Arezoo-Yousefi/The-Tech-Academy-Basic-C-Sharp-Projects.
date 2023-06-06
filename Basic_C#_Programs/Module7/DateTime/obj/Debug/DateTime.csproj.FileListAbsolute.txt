@@ -1,0 +1,7 @@
+D:\AolccProjects\C#\Basic_C#_Programs\Module7\DateTime\bin\Debug\DateTime.exe.config
+D:\AolccProjects\C#\Basic_C#_Programs\Module7\DateTime\bin\Debug\DateTime.exe
+D:\AolccProjects\C#\Basic_C#_Programs\Module7\DateTime\bin\Debug\DateTime.pdb
+D:\AolccProjects\C#\Basic_C#_Programs\Module7\DateTime\obj\Debug\DateTime.csproj.AssemblyReference.cache
+D:\AolccProjects\C#\Basic_C#_Programs\Module7\DateTime\obj\Debug\DateTime.csproj.CoreCompileInputs.cache
+D:\AolccProjects\C#\Basic_C#_Programs\Module7\DateTime\obj\Debug\DateTime.exe
+D:\AolccProjects\C#\Basic_C#_Programs\Module7\DateTime\obj\Debug\DateTime.pdb

@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.IO;
+using System.Globalization;
 
 namespace TwentyOne
 {
@@ -11,8 +12,10 @@ namespace TwentyOne
     {
         static void Main(string[] args)
         {
+
             
-            string text = File.ReadAllText(@"D:\AolccProjects\C#\Basic_C#_Programs\TwentyOne\logs\log.txt");
+            
+
             Console.Write("Welcome to this Cosino, Let's start with telling me your name: ");
             string playerName = Console.ReadLine();
 
