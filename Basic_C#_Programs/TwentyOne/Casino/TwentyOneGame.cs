@@ -3,8 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Casino.Interface;
+using Casino.TwentyOne;
 
-namespace TwentyOne
+namespace Casino.Twentyaone
 {
     public class TwentyOneGame: Game, IWalkAway
     {

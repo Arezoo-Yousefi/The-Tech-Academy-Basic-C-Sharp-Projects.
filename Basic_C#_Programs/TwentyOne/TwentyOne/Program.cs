@@ -1,10 +1,7 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.IO;
-using System.Globalization;
+using Casino;
+
+using Casino.Twentyaone;
 
 namespace TwentyOne
 {
@@ -12,11 +9,19 @@ namespace TwentyOne
     {
         static void Main(string[] args)
         {
+            Player player1 = new Player("Ali");
 
-            
-            
-
-            Console.Write("Welcome to this Cosino, Let's start with telling me your name: ");
+            //DateTime todayDay = new DateTime(2023, 06, 05 , 3, 33, 30);
+            //DateTime startDay = new DateTime(2023, 01, 16, 07, 14, 20);
+            //TimeSpan differance = todayDay - startDay;
+            //using (StreamWriter file = new StreamWriter(@"D:\AolccProjects\C#\Basic_C#_Programs\Module7\logs\log.txt", false))
+            //{
+            //    file.WriteLine(differance);
+            //};
+            //string dif = Convert.ToString(differance);
+            //File.WriteAllText(@"D:\AolccProjects\C#\Basic_C#_Programs\Module7\logs\log.txt", dif);
+            const string casino = "Casino";
+            Console.Write($"Welcome to this {casino}, Let's start with telling me your name: ");
             string playerName = Console.ReadLine();
 
             Console.Write("How much money did you bring today? ");
