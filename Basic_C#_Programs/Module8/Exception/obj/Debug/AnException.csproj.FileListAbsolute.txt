@@ -1,0 +1,7 @@
+D:\AolccProjects\C#\Basic_C#_Programs\Module8\Exception\bin\Debug\Exception.exe.config
+D:\AolccProjects\C#\Basic_C#_Programs\Module8\Exception\bin\Debug\Exception.exe
+D:\AolccProjects\C#\Basic_C#_Programs\Module8\Exception\bin\Debug\Exception.pdb
+D:\AolccProjects\C#\Basic_C#_Programs\Module8\Exception\obj\Debug\AnException.csproj.CoreCompileInputs.cache
+D:\AolccProjects\C#\Basic_C#_Programs\Module8\Exception\obj\Debug\Exception.exe
+D:\AolccProjects\C#\Basic_C#_Programs\Module8\Exception\obj\Debug\Exception.pdb
+D:\AolccProjects\C#\Basic_C#_Programs\Module8\Exception\obj\Debug\AnException.csproj.AssemblyReference.cache
