@@ -1,0 +1,15 @@
+﻿@using StudentsMVC.Models
+@model List<Instructor>
+@{ViewBag.title = "Instructor";}
+
+<h5>Detail for @ViewBag.title</h5>
+@foreach(Instructor instructor in Model)
+            {
+                <div>
+                    <ul>
+                        <li>@instructor.Id</li>
+                        <li>@instructor.FirstName</li>
+                        <li>@instructor.LastName</li>
+                    </ul>
+                </div>
+            }

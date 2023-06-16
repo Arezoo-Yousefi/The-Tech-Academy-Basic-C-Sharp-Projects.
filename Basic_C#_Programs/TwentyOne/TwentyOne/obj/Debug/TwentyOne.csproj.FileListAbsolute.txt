@@ -8,7 +8,6 @@ C:\Users\are_y\source\repos\TwentyOne\TwentyOne\obj\Debug\TwentyOne.pdb
 D:\AolccProjects\C#\Basic_C#_Programs\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe.config
 D:\AolccProjects\C#\Basic_C#_Programs\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe
 D:\AolccProjects\C#\Basic_C#_Programs\TwentyOne\TwentyOne\bin\Debug\TwentyOne.pdb
-D:\AolccProjects\C#\Basic_C#_Programs\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.AssemblyReference.cache
 D:\AolccProjects\C#\Basic_C#_Programs\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CoreCompileInputs.cache
 D:\AolccProjects\C#\Basic_C#_Programs\TwentyOne\TwentyOne\obj\Debug\TwentyOne.exe
 D:\AolccProjects\C#\Basic_C#_Programs\TwentyOne\TwentyOne\obj\Debug\TwentyOne.pdb
@@ -16,3 +15,4 @@ D:\AolccProjects\C#\Basic_C#_Programs\TwentyOne\TwentyOne\bin\Debug\Casino.dll
 D:\AolccProjects\C#\Basic_C#_Programs\TwentyOne\TwentyOne\bin\Debug\Casino.pdb
 D:\AolccProjects\C#\Basic_C#_Programs\TwentyOne\TwentyOne\bin\Debug\Casino.dll.config
 D:\AolccProjects\C#\Basic_C#_Programs\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CopyComplete
+D:\AolccProjects\C#\Basic_C#_Programs\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.AssemblyReference.cache

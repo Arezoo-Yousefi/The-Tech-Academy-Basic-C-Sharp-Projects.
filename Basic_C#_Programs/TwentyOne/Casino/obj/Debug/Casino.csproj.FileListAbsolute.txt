@@ -4,4 +4,3 @@ D:\AolccProjects\C#\Basic_C#_Programs\TwentyOne\Casino\bin\Debug\Casino.pdb
 D:\AolccProjects\C#\Basic_C#_Programs\TwentyOne\Casino\obj\Debug\Casino.csproj.CoreCompileInputs.cache
 D:\AolccProjects\C#\Basic_C#_Programs\TwentyOne\Casino\obj\Debug\Casino.dll
 D:\AolccProjects\C#\Basic_C#_Programs\TwentyOne\Casino\obj\Debug\Casino.pdb
-D:\AolccProjects\C#\Basic_C#_Programs\TwentyOne\Casino\obj\Debug\Casino.csproj.AssemblyReference.cache
