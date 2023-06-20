@@ -1,0 +1,13 @@
+D:\AolccProjects\C#\Basic_C#_Programs\HelloWorldFormCore\bin\Debug\netcoreapp3.1\HelloWorldFormCore.exe
+D:\AolccProjects\C#\Basic_C#_Programs\HelloWorldFormCore\bin\Debug\netcoreapp3.1\HelloWorldFormCore.deps.json
+D:\AolccProjects\C#\Basic_C#_Programs\HelloWorldFormCore\bin\Debug\netcoreapp3.1\HelloWorldFormCore.runtimeconfig.json
+D:\AolccProjects\C#\Basic_C#_Programs\HelloWorldFormCore\bin\Debug\netcoreapp3.1\HelloWorldFormCore.runtimeconfig.dev.json
+D:\AolccProjects\C#\Basic_C#_Programs\HelloWorldFormCore\bin\Debug\netcoreapp3.1\HelloWorldFormCore.dll
+D:\AolccProjects\C#\Basic_C#_Programs\HelloWorldFormCore\bin\Debug\netcoreapp3.1\HelloWorldFormCore.pdb
+D:\AolccProjects\C#\Basic_C#_Programs\HelloWorldFormCore\obj\Debug\netcoreapp3.1\HelloWorldFormCore.csprojAssemblyReference.cache
+D:\AolccProjects\C#\Basic_C#_Programs\HelloWorldFormCore\obj\Debug\netcoreapp3.1\HelloWorldFormCore.AssemblyInfoInputs.cache
+D:\AolccProjects\C#\Basic_C#_Programs\HelloWorldFormCore\obj\Debug\netcoreapp3.1\HelloWorldFormCore.AssemblyInfo.cs
+D:\AolccProjects\C#\Basic_C#_Programs\HelloWorldFormCore\obj\Debug\netcoreapp3.1\HelloWorldFormCore.csproj.CoreCompileInputs.cache
+D:\AolccProjects\C#\Basic_C#_Programs\HelloWorldFormCore\obj\Debug\netcoreapp3.1\HelloWorldFormCore.dll
+D:\AolccProjects\C#\Basic_C#_Programs\HelloWorldFormCore\obj\Debug\netcoreapp3.1\HelloWorldFormCore.pdb
+D:\AolccProjects\C#\Basic_C#_Programs\HelloWorldFormCore\obj\Debug\netcoreapp3.1\HelloWorldFormCore.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "BGOiX6pJq4lAUqSyqop1UsTO2hQ7pfHBE4HndT4VxkfspVnEzBnKAt87t9r7BDdz1s3wLD9TdkrIn1qo7ZbQMw==",
+  "success": true,
+  "projectFilePath": "D:\\AolccProjects\\C#\\Basic_C#_Programs\\HelloWorldFormCore\\HelloWorldFormCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\are_y\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\3.1.32\\microsoft.netcore.app.runtime.win-x64.3.1.32.nupkg.sha512",
+    "C:\\Users\\are_y\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\3.1.32\\microsoft.windowsdesktop.app.runtime.win-x64.3.1.32.nupkg.sha512",
+    "C:\\Users\\are_y\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\3.1.32\\microsoft.aspnetcore.app.runtime.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
