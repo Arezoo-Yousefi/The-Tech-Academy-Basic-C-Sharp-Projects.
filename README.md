@@ -8,16 +8,16 @@
 <li><a href ="https://github.com/Arezoo-Yousefi/The-Tech-Academy-Basic-C-Sharp-Projects./tree/main/Basic_C%23_Programs/CodeFirst"> Student entry</a></Li>
 </ul>
 <br/>
-<h6>Car insurance</h6>
+<h5>Car insurance</h5>
 <p>This is MVC application using Entity Framework / database first </p>
 
-<h6>Newsletter</h6>
+<h5>Newsletter</h5>
 <p>This is MVC application using Entity Framework </p>
 
-<h6>Twenty one game</h6>
+<h5>Twenty one game</h5>
 <p>This is C# Console application </p>
 
-<h6>Student entry</h6>
+<h5>Student entry</h5>
 <p>Thia is a Console application using Entity Framework / code first </p>
  
 
