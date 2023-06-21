@@ -1,0 +1,15 @@
+D:\AolccProjects\C#\Basic_C#_Programs\CodeFirst\CodeFirst\bin\Debug\CodeFirst.exe.config
+D:\AolccProjects\C#\Basic_C#_Programs\CodeFirst\CodeFirst\bin\Debug\CodeFirst.exe
+D:\AolccProjects\C#\Basic_C#_Programs\CodeFirst\CodeFirst\bin\Debug\CodeFirst.pdb
+D:\AolccProjects\C#\Basic_C#_Programs\CodeFirst\CodeFirst\bin\Debug\EntityFramework.dll
+D:\AolccProjects\C#\Basic_C#_Programs\CodeFirst\CodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+D:\AolccProjects\C#\Basic_C#_Programs\CodeFirst\CodeFirst\bin\Debug\EntityFramework.xml
+D:\AolccProjects\C#\Basic_C#_Programs\CodeFirst\CodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+D:\AolccProjects\C#\Basic_C#_Programs\CodeFirst\CodeFirst\obj\Debug\CodeFirst.csproj.CoreCompileInputs.cache
+D:\AolccProjects\C#\Basic_C#_Programs\CodeFirst\CodeFirst\obj\Debug\CodeFirst.csproj.CopyComplete
+D:\AolccProjects\C#\Basic_C#_Programs\CodeFirst\CodeFirst\obj\Debug\CodeFirst.exe
+D:\AolccProjects\C#\Basic_C#_Programs\CodeFirst\CodeFirst\obj\Debug\CodeFirst.pdb
+D:\AolccProjects\C#\Basic_C#_Programs\CodeFirst\CodeFirst\obj\Debug\CodeFirst.Migrations.InitialCreate.resources
+D:\AolccProjects\C#\Basic_C#_Programs\CodeFirst\CodeFirst\obj\Debug\CodeFirst.csproj.GenerateResource.cache
+D:\AolccProjects\C#\Basic_C#_Programs\CodeFirst\CodeFirst\obj\Debug\CodeFirst.Migrations.Arezoo.resources
+D:\AolccProjects\C#\Basic_C#_Programs\CodeFirst\CodeFirst\obj\Debug\CodeFirst.csproj.AssemblyReference.cache
