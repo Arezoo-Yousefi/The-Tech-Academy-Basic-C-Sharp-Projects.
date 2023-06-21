@@ -7,5 +7,17 @@
 <li><a href="https://github.com/Arezoo-Yousefi/The-Tech-Academy-Basic-C-Sharp-Projects./tree/main/Basic_C%23_Programs/TwentyOne">Twenty one game</a></li>
 <li><a href ="https://github.com/Arezoo-Yousefi/The-Tech-Academy-Basic-C-Sharp-Projects./tree/main/Basic_C%23_Programs/CodeFirst"> Student entry</a></Li>
 </ul>
+<br/>
+<h6>Car insurance</h6>
+<p>This is MVC application using Entity Framework / database first </p>
+<br/>
+<h6>Newsletter</h6>
+<p>This is MVC application using Entity Framework </p>
+<br/>
+<h6>Twenty one game</h6>
+<p>This is C# Console application </p>
+<br/>
+<h6>Student entry</h6>
+<p>Thia is a Console application using Entity Framework / code first </p>
  
 
